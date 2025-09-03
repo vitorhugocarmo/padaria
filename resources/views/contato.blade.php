@@ -144,7 +144,8 @@
 
 <main>
     <h2>Fale Conosco</h2>
-    <form action="#" method="post">
+    <form method="post">
+        @csrf
         <label for="nome">Nome:</label>
         <input type="text" id="nome" name="nome" placeholder="Digite seu nome">
 

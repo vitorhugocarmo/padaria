@@ -127,7 +127,7 @@
 <body>
 <header>
     <div style="display: flex; align-items: center; justify-content: center; gap:40px;">
-        <img src="{{ asset('imagens/logo.jpg') }}" alt="Logo Padaria Aconchego" style="height: 120px;">
+        <img src="{{ asset('img/logo.jpg') }}" alt="Logo Padaria Aconchego" style="height: 120px;">
         <div style="text-align: left;">
             <h1>Padaria Aconchego</h1>
             <p>Seu cantinho de pão quentinho e café fresco!</p>
